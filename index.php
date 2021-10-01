@@ -59,7 +59,7 @@ $con->close();
 <body>
     <img class="bg" src="bg.jpg" alt="University">
     <div class = "container">
-        <h1>Welcome to IQRA University Travel Form</h1>
+        <h1>Welcome to IQRA University Travel</h1>
         <p><strong>Enter your details and submit your form to confirm your participation in the trip</strong></p>
        
        <?php
